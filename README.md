@@ -1,11 +1,9 @@
-Got it! Here's the revised README.md file with the correct filenames "ML-Task03.ipynb" and "ML-Task03.py":
-
+# Prodigy-ML-03:
 ---
-
-# Prodigy-ML-03: Dogs vs. Cats Image Classification using Support Vector Machines (SVM)
+Dogs vs. Cats Image Classification using Support Vector Machines (SVM)
 
 ![Dogs vs. Cats](dogs_vs_cats.jpg)
-
+---
 ## Overview
 
 Welcome to **Prodigy-ML-03**, a project dedicated to implementing a Support Vector Machine (SVM) classifier for distinguishing between images of cats and dogs. The model is trained on the Dogs vs. Cats dataset sourced from Kaggle, utilizing scikit-learn for SVM implementation and OpenCV for image preprocessing.
