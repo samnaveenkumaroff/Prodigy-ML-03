@@ -1,8 +1,6 @@
 # Prodigy-ML-03:
 ---
 Dogs vs. Cats Image Classification using Support Vector Machines (SVM)
-
-![Dogs vs. Cats](dogs_vs_cats.jpg)
 ---
 ## Overview
 
